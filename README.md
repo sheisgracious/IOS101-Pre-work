@@ -4,6 +4,7 @@
 - Implemented a function to change the color of the background to a random color.
 - Implemented another function to change the color of the labels' texts to a lighter color than the background.
 
+![](https://i.imgur.com/mjbcKmz.gif)
 
 ## App Brainstorming
 ### Favorite Apps & Features:
